@@ -1,4 +1,8 @@
+# 忽略安装包
 node_modules
+
+# 忽略上传文件
+upload
 
 # Windows image file caches
 Thumbs.db
